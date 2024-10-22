@@ -1,0 +1,6 @@
+@VanierAppAPIs_HostAddress = http://localhost:5074
+
+GET {{VanierAppAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
